@@ -1,0 +1,3 @@
+Options All -Indexes
+ErrorDocument 403 /lp/data/403.html
+ErrorDocument 404 /lp/data/404.html
